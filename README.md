@@ -1,5 +1,7 @@
 # COD-Design-System
 
+## NOTE: THIS PROJECT IS ARCHIVED AS ALL FUTURE DEVELOPMENT WILL OCCUR IN THE ORGANIZATION REPO: https://github.com/CityOfDetroit/COD-Design-System
+
 Design System proof of concept
 
 ## Getting Started
